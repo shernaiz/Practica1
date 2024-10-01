@@ -8,4 +8,4 @@
 
 **Crear un contenedor sen nome, queda arrincado? Cómo obtés o nome?**
     Para crear un contenedor sen nome simplemente teremos que omitir a opción _--name_ ao executar o comando _docker run_.
-    Ao non asignar un nome, o propio #0969DA Docker xerará un aleatorio.
+    Ao non asignar un nome, o propio '#0969DA' Docker xerará un aleatorio.
